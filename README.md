@@ -1,3 +1,8 @@
+# Example APP
+
+This is an example react app created with the solo purpuse of illustrating automated code deplopyment in pipelines like App Runner
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
